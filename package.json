@@ -1,0 +1,13 @@
+{
+  "name": "ts-2-col-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Orta Therox",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "https://typescript.visualstudio.com/cf7ac146-d525-443c-b23c-0d58337efebc/_apis/build/builds/109992/artifacts?artifactName=tgz&fileId=87B24FA7EA52D92AF9388987E593C74B3D918F163C1711D6E08698AF09CFC06302&fileName=/typescript-4.5.0-insiders.20210908.tgz"
+  }
+}
